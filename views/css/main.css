@@ -1,0 +1,66 @@
+#main {
+	font-family: Verdana, sans-serif;
+	background: url("../img/jumbo1.jpg") no-repeat center center fixed;
+	-webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+	position: absolute;
+    top: 47px; /* must fix and make it better*/
+    bottom: 0px; /* Footer Height */
+    width: 100%;
+	color: white;
+}
+body p {
+	font-size: 1.35em;
+}
+
+h2, p {
+	color: white;
+	text-align: justify;
+}
+.white {
+	font-size: 1.2em;
+	color: white;
+	font-weight: 100;
+}
+.new_to {
+	font-size: 1.4em;
+	font-weight: 600;
+	color: black;
+}
+.top-buffer {
+	margin-top: 4.5em;
+}
+
+#login-form {
+	background: url("../img/form_bg.png");
+	border-radius: 0.3em;
+	padding: 0.7em;
+}
+
+#register {
+	margin-top: 1.2em;
+	background: url("../img/form_bg.png");
+	border-radius: 0.3em;
+	padding: 0.7em;
+}
+#submit_register {
+	color: black;
+}
+form li{
+	list-style: none;
+	padding-bottom: 1em;
+}
+form ul {
+	margin-left: 2em;
+	padding: 0;
+}
+h1 {
+	font-size: 60px;
+}
+
+.user {
+	height: 30px;
+	width: 100%;
+}
